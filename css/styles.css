@@ -611,7 +611,7 @@ body {
   background-color: rgba(0, 0, 0, 0.2);
   opacity: 1;
   transition-property: opacity;
-  transition-duration: 5000ms;
+  transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .backdrop.is-hidden {
@@ -635,7 +635,7 @@ body {
   border-radius: 4px;
   opacity: 1;
   transition-property: transform, opacity;
-  transition-duration: 5000ms;
+  transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .close-button {
